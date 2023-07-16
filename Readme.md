@@ -9,4 +9,3 @@
 
 <img width="305" alt="example2" src="https://github.com/BlizzardMIT/100-days-Python-Project/assets/56599303/f21e61f6-293e-41ea-a578-50b289268443">
 
-<img width="232" alt="example1" src="https://github.com/BlizzardMIT/100-days-Python-Project/assets/56599303/49189ef2-8468-49ea-a1b1-342ed31579ff">
